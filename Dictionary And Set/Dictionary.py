@@ -3,7 +3,7 @@ Names = {1: 'Mansi', 2: 'Riya', 3: 'Priya', 4: 'Siya'}
 print(Names)
 
 # Creation of Dictionary with dict() method
-Dict = dict({1: 'Meera', 2: 'For', 3: 'Sameera'})
+Dict = dict({1: 'Meera', 2: 'Veera', 3: 'Sameera'})
 print(Dict)
 
 # Creation of  Dictionary with each item as a Pair
